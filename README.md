@@ -1,7 +1,11 @@
-# Code Institute
+# My first README file
 
-Welcome fergabi17,
+This file is the first README.md created for myy FullStack development course with the Code Institute.
 
-We have preinstalled all of the tools you need to get started.
+## Languages in this project
 
-Happy coding!
+This project uses Html5 and CSS3.
+
+## Languages I'm familiar with
+
+Html5, CSS3 and Javascript.
